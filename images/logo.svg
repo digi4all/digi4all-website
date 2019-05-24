@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 550 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,62.3175,62.3175)">
+        <g transform="matrix(1.10654,0,0,1.10654,51.4251,-18.5122)">
+            <circle cx="149.674" cy="199.254" r="228.891" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,22.3038,331.77)">
+            <text x="0px" y="0px" style="font-family:'Optima-Regular', 'Optima';font-size:121.15px;">digi4all</text>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="18.003" y="61.854" width="50.248" height="167.896" style="fill:rgb(67,141,204);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="73.269" y="110.924" width="50.248" height="118.826" style="fill:rgb(130,72,150);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="128.535" y="160.915" width="50.251" height="68.838" style="fill:rgb(86,175,49);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="183.8" y="130.985" width="50.251" height="98.765" style="fill:rgb(244,231,45);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="239.063" y="110.924" width="50.245" height="118.826" style="fill:rgb(244,152,25);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="294.329" y="84.014" width="50.245" height="145.736" style="fill:rgb(116,200,218);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,7.53074,-1.18788)">
+            <rect x="349.592" y="130.985" width="50.251" height="98.765" style="fill:rgb(41,72,153);"/>
+        </g>
+    </g>
+</svg>
