@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #F2B837 2%, #21B5EA 15%, #574092 83%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #F2B837 2%, #21B5EA 15%, #574092 83%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #F2B837 2%, #21B5EA 15%, #574092 83%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #F2B837 2%, #21B5EA 15%, #574092 83%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2981,13 +2981,12 @@ input, select, textarea {
 			display: inline-block;
 			margin-left: 4em;
 			padding: 0.65em;
-			border-radius: 100%;
+			border-radius: 5%;
 			border: solid 1px;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
 				width: 16em;
 			}
 
@@ -3526,10 +3525,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #F2B837, #21B5EA, #574092);
+			background-image: -webkit-linear-gradient(90deg, #F2B837, #21B5EA, #574092);
+			background-image: -ms-linear-gradient(90deg, #F2B837, #21B5EA, #574092);
+			background-image: linear-gradient(90deg, #F2B837, #21B5EA, #574092);
 		}
 
 		#main table tbody tr {
